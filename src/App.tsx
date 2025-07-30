@@ -7,8 +7,7 @@ function App() {
     <>
       <Background></Background>
       <CenterContainer>
-        <h1 className="text-xl font-bold mb-4">Hello!</h1>
-        <p>This is a centered content area.</p>
+        <img src="https://media1.tenor.com/m/ZHze27YyLIkAAAAd/joel-spinning.gif"></img>
       </CenterContainer>
     </>
   );
